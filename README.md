@@ -9,4 +9,4 @@
 
 chrome 如果没有添加switchysharp  
 解压.将switchysharp.crx 添加到chrome的扩展里面.(如果没有被墙,可以直接在chrome商城搜索)
-
+添加完成switchysharp,之后可以直接导入压缩包中的SwitchyOptions.bak.完成配置
